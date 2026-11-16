@@ -1,64 +1,73 @@
 {
-  "acceptedCommit": "dfb5d5f37bbf859378710c0e6b5eb13714be0488",
-  "createdAtUTC": "2026-11-16T18:08:05.260463+00:00",
-  "targetRepository": "zizy22545-jpg/export-patrol-preview",
-  "proposedURL": "https://zizy22545-jpg.github.io/export-patrol-preview/",
+  "sourceCommit": "ea6524fe91f86393af6e7d61aa1b209e00497793",
+  "branch": "codex/audit-remediation",
+  "previewURL": "https://zizy22545-jpg.github.io/export-patrol-preview/",
   "files": [
     {
       "path": ".nojekyll",
       "bytes": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gitBlobSHA": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
     },
     {
       "path": "assets/images/export-patrol-logo.png",
       "bytes": 23832,
-      "sha256": "28f8e5a9231089ed5ba16836a7d5318ca5e9c7167532b6461ae87b307411bdbd"
+      "sha256": "28f8e5a9231089ed5ba16836a7d5318ca5e9c7167532b6461ae87b307411bdbd",
+      "gitBlobSHA": "29ec151ac532b76f9bccabc4333f9fec9af41ad1"
     },
     {
       "path": "assets/images/lighthouse-logo.png",
       "bytes": 98865,
-      "sha256": "688a536088ba3db2e59b33fe42a79d2499fb36dd780da43a8a2231d4698369be"
+      "sha256": "688a536088ba3db2e59b33fe42a79d2499fb36dd780da43a8a2231d4698369be",
+      "gitBlobSHA": "404e3093d286de06190304ec0a0e4902246e8191"
     },
     {
       "path": "assets/images/ocean-poster.jpg",
       "bytes": 888402,
-      "sha256": "8bd463666a7066ce0a019ae118713fe2da3e0a704ebb577a36c61a6bd763c127"
+      "sha256": "8bd463666a7066ce0a019ae118713fe2da3e0a704ebb577a36c61a6bd763c127",
+      "gitBlobSHA": "d58df5ad6256d8d56fd469e11cb7d13712d20618"
     },
     {
-      "path": "assets/index-DzqNsfaj.js",
-      "bytes": 336794,
-      "sha256": "ed56785962df1a5999cd1c4385c3650072faa593511eb1ec15c41577c66d5193"
+      "path": "assets/index-Bt1jsKhm.js",
+      "bytes": 340876,
+      "sha256": "8a983bd9f41e04a8c36f10f543efd8a753ce92e227fa9bc29f2c5625c0c2e778",
+      "gitBlobSHA": "7ea9bd848b0c81aa36967f889841e7a2d8e907de"
     },
     {
-      "path": "assets/index-owKfKguz.css",
-      "bytes": 31693,
-      "sha256": "1ff0c666f467f9a57f379102ff84e4b1a28cc6f3968ab68c61c2fff523d19e48"
+      "path": "assets/index-BwNdrOJz.css",
+      "bytes": 31868,
+      "sha256": "a040294ec861f06f569eba864ff4db0265b8486dd6d1031af991cc2a4c0aa9ac",
+      "gitBlobSHA": "05b9e73157e406f108cd51ddfc3b76cafc750af3"
     },
     {
       "path": "assets/videos/ocean.mp4",
       "bytes": 6163309,
-      "sha256": "5e1a3ad0b89a82e08540eaa45e1260ebb528543b5b9a081ac1f6c966d1849c4d"
+      "sha256": "5e1a3ad0b89a82e08540eaa45e1260ebb528543b5b9a081ac1f6c966d1849c4d",
+      "gitBlobSHA": "10c04f5bb6abbc4b830ae737e10d3451432308c7"
     },
     {
       "path": "favicon.svg",
       "bytes": 712,
-      "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7"
+      "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7",
+      "gitBlobSHA": "ca747cb66b233fedec5ff0c84f97bb4631c05dbf"
     },
     {
       "path": "index.html",
       "bytes": 1393,
-      "sha256": "a08917387d68a8edf6a0d17368e4c8ec34ab2cdde6b66aee48e3116c7709c5d6"
+      "sha256": "fed0fa4c14e540c7e86793831f790298c7d35619140a7775f16291a2a3bd598a",
+      "gitBlobSHA": "839482deb1f39a492f831871bcc14b7a4955323e"
     },
     {
       "path": "logo.jpg",
       "bytes": 23292,
-      "sha256": "e49958215e9c0c14c8b6982896e526a691c16cda259ff0c88f733985ab08974c"
+      "sha256": "e49958215e9c0c14c8b6982896e526a691c16cda259ff0c88f733985ab08974c",
+      "gitBlobSHA": "a28f3d836f02ff066ca77003e6d937d0c8358bc7"
     },
     {
       "path": "og.png",
       "bytes": 1062580,
-      "sha256": "c582e5ee76a24576339b71f094cec42a5f66650b7d0ce622a6f4fdf07c51f4c0"
+      "sha256": "c582e5ee76a24576339b71f094cec42a5f66650b7d0ce622a6f4fdf07c51f4c0",
+      "gitBlobSHA": "a50420d7dc54a5cf635ecd4560ccc381c1331ac4"
     }
-  ],
-  "deployed": false
+  ]
 }

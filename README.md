@@ -1,8 +1,7 @@
-# Тестовая версия «Экспортного патруля»
+# Export Patrol - isolated preview
 
-Статическая production-сборка коммита dfb5d5f37bbf859378710c0e6b5eb13714be0488.
-Только отдельный репозиторий zizy22545-jpg/export-patrol-preview.
-Таблица читается анонимными GET; исходные юридические данные не меняются.
-Полнота юридической проверки не гарантируется; ограничения F04/F09/F24 сохранены.
-Этот пакет не предназначен для запуска workflow в репозитории exit.
-Публикация выполняется только workflow_dispatch после отдельного согласования.
+Source commit: `ea6524fe91f86393af6e7d61aa1b209e00497793` from `codex/audit-remediation`.
+
+Verified static production build: see build-manifest.json for SHA-256 checksums. Only this repository deploys to https://zizy22545-jpg.github.io/export-patrol-preview/ . Production repository `exit` and Google Sheets are not modified.
+
+P1-P5 acceptance fixes included. Session drafts require explicit consent; legal results are recalculated from Google Sheets after restoration.
