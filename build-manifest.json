@@ -1,0 +1,64 @@
+{
+  "acceptedCommit": "dfb5d5f37bbf859378710c0e6b5eb13714be0488",
+  "createdAtUTC": "2026-11-16T18:08:05.260463+00:00",
+  "targetRepository": "zizy22545-jpg/export-patrol-preview",
+  "proposedURL": "https://zizy22545-jpg.github.io/export-patrol-preview/",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/images/export-patrol-logo.png",
+      "bytes": 23832,
+      "sha256": "28f8e5a9231089ed5ba16836a7d5318ca5e9c7167532b6461ae87b307411bdbd"
+    },
+    {
+      "path": "assets/images/lighthouse-logo.png",
+      "bytes": 98865,
+      "sha256": "688a536088ba3db2e59b33fe42a79d2499fb36dd780da43a8a2231d4698369be"
+    },
+    {
+      "path": "assets/images/ocean-poster.jpg",
+      "bytes": 888402,
+      "sha256": "8bd463666a7066ce0a019ae118713fe2da3e0a704ebb577a36c61a6bd763c127"
+    },
+    {
+      "path": "assets/index-DzqNsfaj.js",
+      "bytes": 336794,
+      "sha256": "ed56785962df1a5999cd1c4385c3650072faa593511eb1ec15c41577c66d5193"
+    },
+    {
+      "path": "assets/index-owKfKguz.css",
+      "bytes": 31693,
+      "sha256": "1ff0c666f467f9a57f379102ff84e4b1a28cc6f3968ab68c61c2fff523d19e48"
+    },
+    {
+      "path": "assets/videos/ocean.mp4",
+      "bytes": 6163309,
+      "sha256": "5e1a3ad0b89a82e08540eaa45e1260ebb528543b5b9a081ac1f6c966d1849c4d"
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 712,
+      "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1393,
+      "sha256": "a08917387d68a8edf6a0d17368e4c8ec34ab2cdde6b66aee48e3116c7709c5d6"
+    },
+    {
+      "path": "logo.jpg",
+      "bytes": 23292,
+      "sha256": "e49958215e9c0c14c8b6982896e526a691c16cda259ff0c88f733985ab08974c"
+    },
+    {
+      "path": "og.png",
+      "bytes": 1062580,
+      "sha256": "c582e5ee76a24576339b71f094cec42a5f66650b7d0ce622a6f4fdf07c51f4c0"
+    }
+  ],
+  "deployed": false
+}
